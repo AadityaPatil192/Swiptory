@@ -1,3 +1,3 @@
-const BASEURL = "http://localhost:5000";
+const BASEURL = "https://swiptory-w804.onrender.com";
 
 export default BASEURL;
